@@ -1,0 +1,80 @@
+#button{
+    background-color: #21B573;
+    border-color: #21B573;
+    color: white;
+}
+#img{
+    width: 180px;
+    
+}
+#hh6{
+color: red;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+
+    
+.nav{
+    
+    background-color:#F0FFF0;
+}
+.name{
+    color: black;
+    font-size: 700;
+}
+.namee{
+    color: #21B573;
+}
+.bu{
+    background-color: #21B573;
+    border-color: #21B573;
+    border-radius: 5px;
+}
+.imag{
+    width: 100%;
+}
+.margin{
+    margin-left: 7px;
+}
+.a{
+    width: 100px;
+    
+}
+.bb{
+    border: 1px solid white;
+    padding: 5px 5px;
+    box-shadow: 5px 5px 10px white;
+    background-color:aliceblue;
+    
+    
+}
+.cc{
+    border: 5px solid white;
+    padding: 5px 5px 10px;
+    box-shadow: 3px 3px 5px;
+    
+}
+.online{
+    text-align: center;
+}
+.card{
+    margin-top: 50px;
+}
+.man{
+    width: 150px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.mann{
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.last{
+    background-color: rgb(92, 89, 95);
+}
+.foot{
+    text-align: center;
+}
